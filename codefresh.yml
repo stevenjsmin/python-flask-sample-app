@@ -14,7 +14,7 @@ steps:
     title: Building Docker Image
     type: build
     stage: package
-    image_name: my-app-image
+    image_name: stevenmin/my-app-image
     working_directory: ./
     tag: v1.0.1
     dockerfile: Dockerfile
