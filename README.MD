@@ -1,7 +1,7 @@
 ## Flaskr an example application written in Python/Flask
 
 # Test1
-# Test2.
+# Test2.....
 
 ![Flask plus Codefresh](docker-flask-codefresh.jpg)
 
